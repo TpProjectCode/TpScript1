@@ -1,1 +1,1 @@
-# TpScript1
+print('11')
